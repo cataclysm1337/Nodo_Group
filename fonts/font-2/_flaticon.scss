@@ -1,0 +1,309 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 25/11/2018 11:36
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-toilet:before { content: "\f100"; }
+.flaticon-valve:before { content: "\f101"; }
+.flaticon-shower:before { content: "\f102"; }
+.flaticon-faucet:before { content: "\f103"; }
+.flaticon-toilet-1:before { content: "\f104"; }
+.flaticon-leak:before { content: "\f105"; }
+.flaticon-faucet-1:before { content: "\f106"; }
+.flaticon-valve-1:before { content: "\f107"; }
+.flaticon-pipe:before { content: "\f108"; }
+.flaticon-pipe-1:before { content: "\f109"; }
+.flaticon-urinal:before { content: "\f10a"; }
+.flaticon-faucet-2:before { content: "\f10b"; }
+.flaticon-sink:before { content: "\f10c"; }
+.flaticon-pipe-2:before { content: "\f10d"; }
+.flaticon-manometer:before { content: "\f10e"; }
+.flaticon-pipe-3:before { content: "\f10f"; }
+.flaticon-pipe-4:before { content: "\f110"; }
+.flaticon-sawing:before { content: "\f111"; }
+.flaticon-wrench:before { content: "\f112"; }
+.flaticon-pipe-5:before { content: "\f113"; }
+.flaticon-plumber:before { content: "\f114"; }
+.flaticon-leak-1:before { content: "\f115"; }
+.flaticon-house:before { content: "\f116"; }
+.flaticon-plumber-1:before { content: "\f117"; }
+.flaticon-leak-2:before { content: "\f118"; }
+.flaticon-pipe-6:before { content: "\f119"; }
+.flaticon-pipe-7:before { content: "\f11a"; }
+.flaticon-pipe-8:before { content: "\f11b"; }
+.flaticon-extractor:before { content: "\f11c"; }
+.flaticon-filter:before { content: "\f11d"; }
+.flaticon-plunger:before { content: "\f11e"; }
+.flaticon-filter-1:before { content: "\f11f"; }
+.flaticon-pipe-9:before { content: "\f120"; }
+.flaticon-toolbox:before { content: "\f121"; }
+.flaticon-filter-2:before { content: "\f122"; }
+.flaticon-happiness:before { content: "\f123"; }
+.flaticon-smile:before { content: "\f124"; }
+.flaticon-happy:before { content: "\f125"; }
+.flaticon-happiness-1:before { content: "\f126"; }
+.flaticon-happy-1:before { content: "\f127"; }
+.flaticon-happy-2:before { content: "\f128"; }
+.flaticon-trophy:before { content: "\f129"; }
+.flaticon-quality:before { content: "\f12a"; }
+.flaticon-trophy-1:before { content: "\f12b"; }
+.flaticon-medal:before { content: "\f12c"; }
+.flaticon-award:before { content: "\f12d"; }
+.flaticon-trophy-2:before { content: "\f12e"; }
+.flaticon-trophy-3:before { content: "\f12f"; }
+.flaticon-cup:before { content: "\f130"; }
+.flaticon-award-1:before { content: "\f131"; }
+.flaticon-play-button:before { content: "\f132"; }
+.flaticon-play-button-1:before { content: "\f133"; }
+.flaticon-play-button-2:before { content: "\f134"; }
+.flaticon-left-quote:before { content: "\f135"; }
+.flaticon-quotes:before { content: "\f136"; }
+.flaticon-right-quotation-mark:before { content: "\f137"; }
+.flaticon-quote-left:before { content: "\f138"; }
+.flaticon-mail:before { content: "\f139"; }
+.flaticon-email:before { content: "\f13a"; }
+.flaticon-message:before { content: "\f13b"; }
+.flaticon-contact:before { content: "\f13c"; }
+.flaticon-paper-plane:before { content: "\f13d"; }
+.flaticon-message-1:before { content: "\f13e"; }
+.flaticon-email-1:before { content: "\f13f"; }
+.flaticon-email-2:before { content: "\f140"; }
+.flaticon-mail-1:before { content: "\f141"; }
+.flaticon-mail-2:before { content: "\f142"; }
+.flaticon-phone-call:before { content: "\f143"; }
+.flaticon-call:before { content: "\f144"; }
+.flaticon-phone-call-1:before { content: "\f145"; }
+.flaticon-phone-call-2:before { content: "\f146"; }
+.flaticon-customer-service:before { content: "\f147"; }
+.flaticon-phone:before { content: "\f148"; }
+.flaticon-help:before { content: "\f149"; }
+.flaticon-clock:before { content: "\f14a"; }
+.flaticon-time:before { content: "\f14b"; }
+.flaticon-clock-circular-outline:before { content: "\f14c"; }
+.flaticon-clock-1:before { content: "\f14d"; }
+.flaticon-alarm-clock:before { content: "\f14e"; }
+.flaticon-clock-2:before { content: "\f14f"; }
+.flaticon-24-hours:before { content: "\f150"; }
+.flaticon-clock-with-white-face:before { content: "\f151"; }
+.flaticon-clock-3:before { content: "\f152"; }
+.flaticon-next:before { content: "\f153"; }
+.flaticon-back:before { content: "\f154"; }
+.flaticon-left-arrow:before { content: "\f155"; }
+.flaticon-right-arrow:before { content: "\f156"; }
+.flaticon-target:before { content: "\f157"; }
+.flaticon-next-1:before { content: "\f158"; }
+.flaticon-back-1:before { content: "\f159"; }
+.flaticon-right-arrow-1:before { content: "\f15a"; }
+.flaticon-right-arrow-2:before { content: "\f15b"; }
+.flaticon-back-2:before { content: "\f15c"; }
+.flaticon-back-3:before { content: "\f15d"; }
+.flaticon-plumber-2:before { content: "\f15e"; }
+.flaticon-pipes:before { content: "\f15f"; }
+.flaticon-water-tap:before { content: "\f160"; }
+.flaticon-pipe-10:before { content: "\f161"; }
+.flaticon-pipe-11:before { content: "\f162"; }
+.flaticon-pipe-12:before { content: "\f163"; }
+.flaticon-pipe-13:before { content: "\f164"; }
+.flaticon-pipe-14:before { content: "\f165"; }
+.flaticon-pipe-15:before { content: "\f166"; }
+.flaticon-pipe-16:before { content: "\f167"; }
+.flaticon-pipe-17:before { content: "\f168"; }
+.flaticon-water-supply:before { content: "\f169"; }
+.flaticon-faucet-3:before { content: "\f16a"; }
+.flaticon-faucet-4:before { content: "\f16b"; }
+.flaticon-pipe-18:before { content: "\f16c"; }
+.flaticon-pipe-19:before { content: "\f16d"; }
+.flaticon-van:before { content: "\f16e"; }
+.flaticon-plunger-1:before { content: "\f16f"; }
+.flaticon-pipe-20:before { content: "\f170"; }
+.flaticon-plunger-2:before { content: "\f171"; }
+.flaticon-pipe-21:before { content: "\f172"; }
+.flaticon-leak-3:before { content: "\f173"; }
+.flaticon-pipe-22:before { content: "\f174"; }
+.flaticon-water:before { content: "\f175"; }
+.flaticon-pipe-23:before { content: "\f176"; }
+.flaticon-toilet-2:before { content: "\f177"; }
+.flaticon-silicone:before { content: "\f178"; }
+.flaticon-gauge:before { content: "\f179"; }
+.flaticon-hose:before { content: "\f17a"; }
+.flaticon-pipes-1:before { content: "\f17b"; }
+.flaticon-pipe-24:before { content: "\f17c"; }
+.flaticon-pipe-25:before { content: "\f17d"; }
+.flaticon-shower-1:before { content: "\f17e"; }
+.flaticon-saw:before { content: "\f17f"; }
+.flaticon-water-bottle:before { content: "\f180"; }
+.flaticon-sink-1:before { content: "\f181"; }
+.flaticon-wrench-1:before { content: "\f182"; }
+.flaticon-sink-2:before { content: "\f183"; }
+.flaticon-shower-2:before { content: "\f184"; }
+.flaticon-plumber-3:before { content: "\f185"; }
+.flaticon-tap:before { content: "\f186"; }
+    
+    $font-Flaticon-toilet: "\f100";
+    $font-Flaticon-valve: "\f101";
+    $font-Flaticon-shower: "\f102";
+    $font-Flaticon-faucet: "\f103";
+    $font-Flaticon-toilet-1: "\f104";
+    $font-Flaticon-leak: "\f105";
+    $font-Flaticon-faucet-1: "\f106";
+    $font-Flaticon-valve-1: "\f107";
+    $font-Flaticon-pipe: "\f108";
+    $font-Flaticon-pipe-1: "\f109";
+    $font-Flaticon-urinal: "\f10a";
+    $font-Flaticon-faucet-2: "\f10b";
+    $font-Flaticon-sink: "\f10c";
+    $font-Flaticon-pipe-2: "\f10d";
+    $font-Flaticon-manometer: "\f10e";
+    $font-Flaticon-pipe-3: "\f10f";
+    $font-Flaticon-pipe-4: "\f110";
+    $font-Flaticon-sawing: "\f111";
+    $font-Flaticon-wrench: "\f112";
+    $font-Flaticon-pipe-5: "\f113";
+    $font-Flaticon-plumber: "\f114";
+    $font-Flaticon-leak-1: "\f115";
+    $font-Flaticon-house: "\f116";
+    $font-Flaticon-plumber-1: "\f117";
+    $font-Flaticon-leak-2: "\f118";
+    $font-Flaticon-pipe-6: "\f119";
+    $font-Flaticon-pipe-7: "\f11a";
+    $font-Flaticon-pipe-8: "\f11b";
+    $font-Flaticon-extractor: "\f11c";
+    $font-Flaticon-filter: "\f11d";
+    $font-Flaticon-plunger: "\f11e";
+    $font-Flaticon-filter-1: "\f11f";
+    $font-Flaticon-pipe-9: "\f120";
+    $font-Flaticon-toolbox: "\f121";
+    $font-Flaticon-filter-2: "\f122";
+    $font-Flaticon-happiness: "\f123";
+    $font-Flaticon-smile: "\f124";
+    $font-Flaticon-happy: "\f125";
+    $font-Flaticon-happiness-1: "\f126";
+    $font-Flaticon-happy-1: "\f127";
+    $font-Flaticon-happy-2: "\f128";
+    $font-Flaticon-trophy: "\f129";
+    $font-Flaticon-quality: "\f12a";
+    $font-Flaticon-trophy-1: "\f12b";
+    $font-Flaticon-medal: "\f12c";
+    $font-Flaticon-award: "\f12d";
+    $font-Flaticon-trophy-2: "\f12e";
+    $font-Flaticon-trophy-3: "\f12f";
+    $font-Flaticon-cup: "\f130";
+    $font-Flaticon-award-1: "\f131";
+    $font-Flaticon-play-button: "\f132";
+    $font-Flaticon-play-button-1: "\f133";
+    $font-Flaticon-play-button-2: "\f134";
+    $font-Flaticon-left-quote: "\f135";
+    $font-Flaticon-quotes: "\f136";
+    $font-Flaticon-right-quotation-mark: "\f137";
+    $font-Flaticon-quote-left: "\f138";
+    $font-Flaticon-mail: "\f139";
+    $font-Flaticon-email: "\f13a";
+    $font-Flaticon-message: "\f13b";
+    $font-Flaticon-contact: "\f13c";
+    $font-Flaticon-paper-plane: "\f13d";
+    $font-Flaticon-message-1: "\f13e";
+    $font-Flaticon-email-1: "\f13f";
+    $font-Flaticon-email-2: "\f140";
+    $font-Flaticon-mail-1: "\f141";
+    $font-Flaticon-mail-2: "\f142";
+    $font-Flaticon-phone-call: "\f143";
+    $font-Flaticon-call: "\f144";
+    $font-Flaticon-phone-call-1: "\f145";
+    $font-Flaticon-phone-call-2: "\f146";
+    $font-Flaticon-customer-service: "\f147";
+    $font-Flaticon-phone: "\f148";
+    $font-Flaticon-help: "\f149";
+    $font-Flaticon-clock: "\f14a";
+    $font-Flaticon-time: "\f14b";
+    $font-Flaticon-clock-circular-outline: "\f14c";
+    $font-Flaticon-clock-1: "\f14d";
+    $font-Flaticon-alarm-clock: "\f14e";
+    $font-Flaticon-clock-2: "\f14f";
+    $font-Flaticon-24-hours: "\f150";
+    $font-Flaticon-clock-with-white-face: "\f151";
+    $font-Flaticon-clock-3: "\f152";
+    $font-Flaticon-next: "\f153";
+    $font-Flaticon-back: "\f154";
+    $font-Flaticon-left-arrow: "\f155";
+    $font-Flaticon-right-arrow: "\f156";
+    $font-Flaticon-target: "\f157";
+    $font-Flaticon-next-1: "\f158";
+    $font-Flaticon-back-1: "\f159";
+    $font-Flaticon-right-arrow-1: "\f15a";
+    $font-Flaticon-right-arrow-2: "\f15b";
+    $font-Flaticon-back-2: "\f15c";
+    $font-Flaticon-back-3: "\f15d";
+    $font-Flaticon-plumber-2: "\f15e";
+    $font-Flaticon-pipes: "\f15f";
+    $font-Flaticon-water-tap: "\f160";
+    $font-Flaticon-pipe-10: "\f161";
+    $font-Flaticon-pipe-11: "\f162";
+    $font-Flaticon-pipe-12: "\f163";
+    $font-Flaticon-pipe-13: "\f164";
+    $font-Flaticon-pipe-14: "\f165";
+    $font-Flaticon-pipe-15: "\f166";
+    $font-Flaticon-pipe-16: "\f167";
+    $font-Flaticon-pipe-17: "\f168";
+    $font-Flaticon-water-supply: "\f169";
+    $font-Flaticon-faucet-3: "\f16a";
+    $font-Flaticon-faucet-4: "\f16b";
+    $font-Flaticon-pipe-18: "\f16c";
+    $font-Flaticon-pipe-19: "\f16d";
+    $font-Flaticon-van: "\f16e";
+    $font-Flaticon-plunger-1: "\f16f";
+    $font-Flaticon-pipe-20: "\f170";
+    $font-Flaticon-plunger-2: "\f171";
+    $font-Flaticon-pipe-21: "\f172";
+    $font-Flaticon-leak-3: "\f173";
+    $font-Flaticon-pipe-22: "\f174";
+    $font-Flaticon-water: "\f175";
+    $font-Flaticon-pipe-23: "\f176";
+    $font-Flaticon-toilet-2: "\f177";
+    $font-Flaticon-silicone: "\f178";
+    $font-Flaticon-gauge: "\f179";
+    $font-Flaticon-hose: "\f17a";
+    $font-Flaticon-pipes-1: "\f17b";
+    $font-Flaticon-pipe-24: "\f17c";
+    $font-Flaticon-pipe-25: "\f17d";
+    $font-Flaticon-shower-1: "\f17e";
+    $font-Flaticon-saw: "\f17f";
+    $font-Flaticon-water-bottle: "\f180";
+    $font-Flaticon-sink-1: "\f181";
+    $font-Flaticon-wrench-1: "\f182";
+    $font-Flaticon-sink-2: "\f183";
+    $font-Flaticon-shower-2: "\f184";
+    $font-Flaticon-plumber-3: "\f185";
+    $font-Flaticon-tap: "\f186";
